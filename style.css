@@ -8,6 +8,10 @@ body
     color: whitesmoke;
     text-align: center;
 }
+a
+{
+  color: white;
+}
 
 #title {
     padding-top: 50px;
@@ -18,35 +22,3 @@ align-content: center;
 margin-left: 45%;
 margin-right: 45%;
 }
-.logo {
-  display: block;
-    text-indent: -9999px;
-  
-overflow-x: auto;
-   width: 100px;
-    height: 82px;
-    background: url(content/github.svg);
-    background-size: 100px 82px;
-  }
-  .logo2 {
-
-    display: block;
-    text-indent: -9999px;
-    height: 82px;
-  
-overflow-x: auto;
-   width: 100px;
-    background: url(content/yt.svg);
-    background-size: 100px 82px;
-  }
-  .logo3 {
-
-    display: block;
-    text-indent: -9999px;
-    height: 82px;
-  
-overflow-x: auto;
-   width: 100px;
-    background: url(content/twitter.svg);
-    background-size: 100px 82px;
-  }
